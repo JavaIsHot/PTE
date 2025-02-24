@@ -1,3 +1,3 @@
 # PTE
-Plugin Template Essentials (PTE) - Everything essential to making a good plugin.
+Plugin Template Essentials (PTE) - Everything needed to make a good plugin in one package
 
